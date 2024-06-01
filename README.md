@@ -1,2 +1,2 @@
 # switchpi
-Activa relay en caso de no detectar  conección con un sitio web
+Codigo python que permite activar relay instalado en un raspberrypi en caso de no detectar  conección con un sitio web
